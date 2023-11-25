@@ -8,6 +8,7 @@ namespace laboratorio10.ViewModels
 {
     public class OperacionesViewModel : ViewModelBase
     {
+        //sinche
         int valor1;
         public int Valor1
         {
